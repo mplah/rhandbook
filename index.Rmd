@@ -7,3 +7,6 @@ site: bookdown::bookdown_site
 
 # Primary Research
 
+1. Regresi Linear
+
+a+b=c
