@@ -10,4 +10,4 @@ site: bookdown::bookdown_site
 
 1. Regresi Linear
 
-a+b=c
+a+b=c^2
