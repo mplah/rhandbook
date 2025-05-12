@@ -1,4 +1,4 @@
-<img src="images/S__13697072.jpg" width="866" height="89"/>
+![      ](images/S__13697072.jpg){width="866" height="89"}
 
 # Secondary Research
 
