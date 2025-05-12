@@ -1,5 +1,7 @@
-![      ](images/S__13697072.jpg){width="866" height="89"}
+![](https://raw.githubusercontent.com/mplah/rhandbook/refs/heads/main/docs/images/S__13697072.jpg)
 
 # Secondary Research
 
-A. Meta-Analysis a b c d e f g !
+A. Meta-Analysis
+
+a b c d e f g !
