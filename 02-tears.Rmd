@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mplah/rhandbook/refs/heads/main/docs/images/S__13697072.jpg)
+![header](https://raw.githubusercontent.com/mplah/rhandbook/refs/heads/main/docs/images/S__13697072.jpg){#header}
 
 # Secondary Research
 
